@@ -22,8 +22,6 @@ public class DouMusicActivity extends AppCompatActivity {
     private Fragment messageFragment;
     private Fragment meFragment;
 
-    FragmentTransaction transaction;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

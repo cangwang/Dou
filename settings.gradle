@@ -1,4 +1,4 @@
-include ':app', ':plus',
+include ':app', ':plus', ':camera', ':personal',
         ':top:home', ':top:disc', ':top:menu', ':top:title',
         ':dicovery',
         ':message',

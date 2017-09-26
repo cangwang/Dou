@@ -9,12 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/camera" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/common/base" />
             <option value="$PROJECT_DIR$/common/core" />
             <option value="$PROJECT_DIR$/dicovery" />
             <option value="$PROJECT_DIR$/me" />
             <option value="$PROJECT_DIR$/message" />
+            <option value="$PROJECT_DIR$/personal" />
             <option value="$PROJECT_DIR$/plus" />
             <option value="$PROJECT_DIR$/top" />
             <option value="$PROJECT_DIR$/top/disc" />
