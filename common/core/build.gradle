@@ -29,6 +29,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.android.support:design:25.3.0'
     compile 'com.google.code.gson:gson:2.8.0'
+    compile 'org.jooq:joor:0.9.6'
     compile 'com.alibaba:arouter-api:1.1.0'
     annotationProcessor 'com.alibaba:arouter-compiler:1.1.1'
 }

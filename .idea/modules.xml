@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/me/me.iml" filepath="$PROJECT_DIR$/me/me.iml" />
       <module fileurl="file://$PROJECT_DIR$/top/menu/menu.iml" filepath="$PROJECT_DIR$/top/menu/menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plus/plus.iml" filepath="$PROJECT_DIR$/plus/plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/top/title/title.iml" filepath="$PROJECT_DIR$/top/title/title.iml" />
       <module fileurl="file://$PROJECT_DIR$/top/top.iml" filepath="$PROJECT_DIR$/top/top.iml" />
     </modules>

@@ -1,5 +1,5 @@
-include ':app',
-        ':top:home',':top:disc', ':top:menu', ':top:title',
+include ':app', ':plus',
+        ':top:home', ':top:disc', ':top:menu', ':top:title',
         ':dicovery',
         ':message',
         ':me',
