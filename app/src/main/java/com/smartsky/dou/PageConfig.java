@@ -5,13 +5,13 @@ package com.smartsky.dou;
  */
 
 public class PageConfig {
-    private static final String MeFragment = "com.smartsky.me.MeFragment";
+    public static final String MeFragment = "com.smartsky.me.MeFragment";
 
-    private static final String DicoveryFragment = "com.smartsky.dicovery.DicoveryFragment";
+    public static final String DicoveryFragment = "com.smartsky.dicovery.DicoveryFragment";
 
-    private static final String HomeFragment = "ccom.smartsky.home.HomeFragment";
+    public static final String HomeFragment = "com.smartsky.home.HomeFragment";
 
-    private static final String PlusFragment = "ccom.smartsky.plus.PlusFragment";
+    public static final String PlusFragment = "com.smartsky.plus.PlusFragment";
 
-    private static final String MessageFragment = "ccom.smartsky.message.MessageFragment";
+    public static final String MessageFragment = "com.smartsky.message.MessageFragment";
 }

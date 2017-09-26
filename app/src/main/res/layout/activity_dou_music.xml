@@ -9,14 +9,14 @@
         android:id="@+id/main_tab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/main_navigation"
         />
     <RelativeLayout
         android:id="@+id/main_navigation"
         android:layout_width="match_parent"
         android:gravity="center_vertical"
         android:layout_height="50dp"
-        android:layout_alignParentBottom="true"
-        android:layout_below="@+id/main_tab">
+        android:layout_alignParentBottom="true">
         <TextView
             android:id="@+id/main_home"
             android:layout_width="wrap_content"
