@@ -1,0 +1,7 @@
+include ':app',
+        ':top:home',':top:disc', ':top:menu', ':top:title',
+        ':dicovery',
+        ':message',
+        ':me',
+        ':common:base',
+        ':common:core'

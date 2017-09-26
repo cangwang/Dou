@@ -1,0 +1,26 @@
+apply from: "${rootProject.rootDir}/common_config.gradle"
+
+project.ext.setAppDefaultConfig project
+android {
+    defaultConfig {
+        applicationId "com.smartsky.dou"
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':common:base')
+    compile project(':dicovery')
+    compile project(':me')
+    compile project(':message')
+    compile project(':top:home')
+}

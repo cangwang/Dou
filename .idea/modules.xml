@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/base/base.iml" filepath="$PROJECT_DIR$/common/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/core/core.iml" filepath="$PROJECT_DIR$/common/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicovery/dicovery.iml" filepath="$PROJECT_DIR$/dicovery/dicovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top/disc/disc.iml" filepath="$PROJECT_DIR$/top/disc/disc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dou.iml" filepath="$PROJECT_DIR$/dou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top/home/home.iml" filepath="$PROJECT_DIR$/top/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/me/me.iml" filepath="$PROJECT_DIR$/me/me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top/menu/menu.iml" filepath="$PROJECT_DIR$/top/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top/title/title.iml" filepath="$PROJECT_DIR$/top/title/title.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top/top.iml" filepath="$PROJECT_DIR$/top/top.iml" />
+    </modules>
+  </component>
+</project>
