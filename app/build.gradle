@@ -24,4 +24,6 @@ dependencies {
     compile project(':me')
     compile project(':message')
     compile project(':top:home')
+    compile project(':camera')
+    compile project(':personal')
 }
